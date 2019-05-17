@@ -1,0 +1,11 @@
+{
+  "name": "naykel-gulp-watcher",
+  "version": "1.0.0",
+  "description": "NAYKEL Basic Workflow Starter Pack",
+  "author": "Nathan Watts",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0"
+  }
+}
